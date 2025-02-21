@@ -1,0 +1,13 @@
+.footer {
+  width: 104px;
+  height: 16px;
+  margin: 0 auto;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 0%;
+  color: #212121;
+  opacity: 70%;
+  padding: 80px 0;
+}
