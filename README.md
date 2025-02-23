@@ -12,3 +12,6 @@ heres an example--> ![alt text](image.png)
 **Figma**
 
 - [Link to the project on Figma] https://jadams2829.github.io/se_project_spots/
+
+**Video Explination link**
+https://drive.google.com/file/d/1JAh9BfyIElk0QRJthRFALbH_7_s52Y_X/view?usp=sharing
