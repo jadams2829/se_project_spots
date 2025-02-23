@@ -1,21 +1,14 @@
-# Project 3: Spots
+# Project Spots
 
-### Overview
+### Description
 
-- Intro
-- Figma
-- Images
+This project is made so all the elements are displayed correctly on popular screen sizes that range from as high as big screen devices down to something as small as a cellphone screen.
 
-**Intro**
+To code this project I used VSCode which included importing photos, structuring the files for ease of use, coding the HTML and CSS from scratch as well. Figma to get the dimensions and imagaes of the project and finally pushing updates continiously through Github using terminal commands.
 
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+Inspect has become a great tool for me as it helps me edit without a concrete commit until i find the correct solution.
+heres an example--> ![alt text](image.png)
 
 **Figma**
 
-- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+- [Link to the project on Figma] https://jadams2829.github.io/se_project_spots/
